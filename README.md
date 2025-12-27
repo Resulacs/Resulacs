@@ -1,16 +1,22 @@
-## Hi there 👋
+# Hi, I'm Resul 👋
 
-<!--
-**Resulacs/Resulacs** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Software developer in progress.  
+Working with **HTML, CSS, JavaScript, C#, and SQL**.  
+Interested in **crypto** and **blockchain** projects.
 
-Here are some ideas to get you started:
+Going to learn **Java** and **Python** in the future.  
+Goal: become a **full stack developer**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### What I'm working on
+- Building small projects and tools in C# and JavaScript
+- Improving frontend and backend development skills
+- Exploring Solana and blockchain development
+
+---
+
+### Skills
+- **Frontend:** HTML, CSS, JavaScript
+- **Backend / Software:** C#
+- **Databases:** SQL
